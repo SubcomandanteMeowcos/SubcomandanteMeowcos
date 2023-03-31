@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on fixing dead reference links in the Metasploit Project.
+- 🌱 I’m currently learning Ruby. I have spent over a decade pretending it does not exist.
+- 👯 I’m looking to collaborate on offensive tooling for *nix.
+- 🤔 I’m looking for help with Ruby. Specifically, the Metasploit flavour, and more specifically: writing mixins that perform post-exploitation actions. 
+- 💬 Ask me about weird shit.
+- 📫 How to reach me: you don't for now. Drop a issue in this repo with contact info and I'll contact you?
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I have at least 8 other Github profiles historically, I suck at managing passwords, so when I lose an accounts login or switch to a different computer I just make another one. 
+
 <!--
 **SubcomandanteMeowcos/SubcomandanteMeowcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
